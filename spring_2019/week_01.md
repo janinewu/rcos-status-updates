@@ -1,7 +1,8 @@
 ## Last Week's Accomplishments
 
 Finally get everything worked in my virtual box.
-![ScreenShot](https://raw.github.com/janinewu/master/rcos-status-updates/1.png)
+![alt text](https://github.com/janinewu/rcos-status-updates/blob/master/1.png?raw=true)
+
 Finished angular tutorial on the official site. https://angular.io/tutorial/toh-pt6
     
     
