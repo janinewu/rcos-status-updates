@@ -1,23 +1,17 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+Finally get everything worked in my virtual box.
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+Got myself assigned to an issue. https://github.com/YACS-RCOS/yacs/issues/366
+Have a lot of things do during the weekend, so probably will start working on it since Monday, and hopefuly can get it done by next Friday.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+Problems with linux in virtual box. Cannot get sublime installed, cannot see the application menu(solved during small group meeting in Friday)
 
 ## Notes
 
