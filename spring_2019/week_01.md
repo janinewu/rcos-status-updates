@@ -1,9 +1,10 @@
 ## Last Week's Accomplishments
 
 Finally get everything worked in my virtual box.
-
-
-
+![ScreenShot](https://raw.github.com/janinewu/master/rcos-status-updates/1.png)
+Finished angular tutorial on the official site. https://angular.io/tutorial/toh-pt6
+    
+    
 ## This Week's Plan
 
 Got myself assigned to an issue. https://github.com/YACS-RCOS/yacs/issues/366
