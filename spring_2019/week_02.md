@@ -22,4 +22,4 @@ Getting used to using HTML and css
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+Sorry I forgot to push week 1 updates!
