@@ -22,4 +22,4 @@ Getting used to using HTML and css
 
 ## Notes
 
-Sorry I forgot to push week 1 updates!
+
