@@ -4,6 +4,7 @@ Get a solution for issue #401 https://github.com/YACS-RCOS/yacs/issues/401
 
 Solved issue #421 https://github.com/YACS-RCOS/yacs/issues/421
 
+https://github.com/YACS-RCOS/yacs/pull/422
 
     
 ## This Week's Plan
