@@ -21,5 +21,5 @@ as well, or it just look terriable.
 
 ## Notes
 
-
+Sorry for the late submission, I thought we are only doing one semester summurizde for the last two weeks
 
