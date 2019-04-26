@@ -11,8 +11,8 @@ Summing up for the semester
 
 ## Notes
 
-Since the part for redesigning schedual view is not done yet. I pushed it to my repository and did put a pull request
-just to show what I have done with it. The stuff there works, but it just does not look right with the rest of the yacs.
+Since the part for redesigning schedual view is not done yet. I pushed it to my repository (https://github.com/janinewu/yacs.git) and did put a pull request just to show what I have done with it. The stuff there works, but it just does not look right with the rest of the yacs.
+
 When thinking about schedual view redesign, we take into accound both calender redesign and sidebar redesign. The part I am
 working on is calender redesign. I kind of want to change the color for the existing redesign since it pops out too much
 with the exisiting version of yacs. But, we are planning on doing a sidebar redesign as well. Hopefull, with the completion of 
