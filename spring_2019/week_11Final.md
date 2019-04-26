@@ -34,8 +34,16 @@ calender redesign with sidebar: hopefully can get the sidebar color to match the
 
 
 This is my first time doing rcos and first time in yacs. I spent some time get yacs working and fix issues with getting it running
-properly. I learned many about html, css and ts this year. I haveb been working on implementing the exisitng logo (top left on the 
-home page) and doing a school view redesign (make it a card style instead of a list style). 
+properly. I learned many about html, css and ts, had weekly meeting with my group, knowing how it feels to work with others on a 
+open source project.
+
+I have been working on implementing the exisitng logo (top left on the 
+home page) and doing a school view redesign (make it a card style instead of a list style) in the first half of the semester. For
+the school view redesign, we have been thinking about many possible solutions including one that has the yacs logo as the background,
+but Ada doesn't like it and it's not there :(.
+
+For the second half, I worked on redesigning schedual view, and my yacs crashed many times during my work. It took me a long time
+to fix the problems with running yacs.
 
 home page:
 
