@@ -19,7 +19,7 @@ with the exisiting version of yacs. But, we are planning on doing a sidebar rede
 sidebar redesign (making it more colorful as well), the calender can look right. Also, I talked with Ada, and are thinging about
 adding colors to the school view and when we select a course (which color will match with the color in the calender).
 
-![alt text](spring_2019/Screenshot from 2019-04-26 15-34-23.png)
+![alt text](/spring_2019/Screenshot from 2019-04-26 15-34-23.png)
 
 ![alt text](spring_2019/Screenshot from 2019-04-26 15-34-40.png)
 ![alt text](spring_2019/Screenshot from 2019-04-26 15-36-02.png)
